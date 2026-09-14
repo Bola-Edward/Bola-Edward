@@ -1,12 +1,19 @@
 <h1 align="center">This is Bola Edward</h1>
 
-<p align="left">🔭 I’m Software Developer<br>📫 How to reach me: bolaedward29@gmail.com</p>
+<p align="left">
+  🔭 I’m a Software Developer<br>
+  📫 How to reach me: bolaedward29@gmail.com
+</p>
 
 <h2 align="left">🌐 Connect with Me:</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/bola-edward/"><img width="55" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/><a/>
-  <a href="mailto:bolaedward29@gmail.com"><img width="55" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/><a/>      
+  <a href="https://www.linkedin.com/in/bola-edward/">
+    <img width="55" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:bolaedward29@gmail.com">
+    <img width="55" src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
 </div>
 
 <h2 align="left">💻 Tech Stack:</h2>
@@ -27,7 +34,6 @@
   <img width="60" src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/>
 </div>
 
-
 <p align="left">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
