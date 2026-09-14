@@ -6,9 +6,11 @@
             alt="Typing SVG" />
     </a>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Bola-Edward&label=Profile%20views&style=flat"
-      alt="Profile views" />
-  </p>
+<h2 align="left">🌐 Connect with Me:</h2>
+
+ <div align="left">
+  <a href="https://www.linkedin.com/in/bola-edward/"><img width="55" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/><a/>
+  <a href="mailto:bolaedward29@gmail.com"><img width="55" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/><a/>      
+</div>
   
 </div>
