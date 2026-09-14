@@ -19,7 +19,7 @@
   <img width="60" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
   <img width="60" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"/>
   <img width="60" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"/>
-  <img width="60" src="https://skillicons.dev/icons?i=sqlserver" alt="SQL Server" title="SQL Server"/>
+  <img width="60" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg" alt="SQL Server" title="SQL Server"/>
   <img width="60" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
   <img width="60" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
   <img width="60" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" title="Visual Studio"/>
