@@ -26,3 +26,8 @@
   <img width="60" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code"/>
   <img width="60" src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/>
 </div>
+
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+</p>
