@@ -6,8 +6,9 @@
             alt="Typing SVG" />
     </a>
 
-    <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=Bola-Edward&label=Profile%20views&color=0e75b6&style=flat"
-            alt="Bola-Edward" />
-    </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Bola-Edward&label=Profile%20views&style=flat"
+      alt="Profile views" />
+  </p>
+  
 </div>
