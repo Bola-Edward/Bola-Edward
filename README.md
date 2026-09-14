@@ -11,45 +11,18 @@
 
 <h2 align="left">💻 Tech Stack:</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="50" alt=".NET logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="50" alt="entity framework core logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="50" alt="sql developer logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="50" alt="postman logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="50" alt="github logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="50" alt="visual studio logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
+<div>
+  <img width="60" src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#"/>
+  <img width="60" src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET"/>
+  <img width="60" src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/>
+  <img width="60" src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>
+  <img width="60" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
+  <img width="60" src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"/>
+  <img width="60" src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"/>
+  <img width="60" src="https://skillicons.dev/icons?i=sqlserver" alt="SQL Server" title="SQL Server"/>
+  <img width="60" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
+  <img width="60" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
+  <img width="60" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" title="Visual Studio"/>
+  <img width="60" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code"/>
+  <img width="60" src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/>
 </div>
